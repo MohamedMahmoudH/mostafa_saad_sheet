@@ -1,3 +1,8 @@
+/*
+https://codeforces.com/contest/810/problem/B
+B. Summer sell-off
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
